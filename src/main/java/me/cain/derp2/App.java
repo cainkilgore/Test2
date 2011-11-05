@@ -9,6 +9,7 @@ public class App implements Runnable
     public static void main( String[] args )
     {
         System.out.println( "Hello World!" );
+        // Ahem, github.
     }
 
 	public void run()
